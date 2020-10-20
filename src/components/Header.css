@@ -1,0 +1,27 @@
+.jumbtron{
+    background-color: pink;
+    color: #fff;
+    padding: 100px 0;
+    text-align: center;
+  }
+
+  .brand-icon{
+    font-size: 100px;
+  }
+
+.temp{
+  display: flex;
+  position: relative;
+  width: 50px;
+}
+
+.bt{
+  display: flex;
+  margin-top: -44px;
+  position: relative;
+  margin-left:700px;
+}
+
+.i{
+  display: inline-block;
+}
